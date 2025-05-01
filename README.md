@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Shopify Collection Scraper & Importer</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px;">
 
   <h1>🛍️ Shopify Collection Scraper & Importer</h1>
   <p>This Python script allows you to <strong>scrape products from any Shopify store's collection page</strong> and export them to a <code>CSV</code> file (<code>all_products.csv</code>) that can be directly imported into <strong>your own Shopify store</strong>.</p>
@@ -74,5 +66,3 @@ https://anotherstore.com/collections/all-products
   <h2>📄 License</h2>
   <p>MIT License – Free to use and modify.</p>
 
-</body>
-</html>
